@@ -1,0 +1,1 @@
+export default { content: ['./index.html', './src/**/*.{ts,tsx}'], theme: { extend: { colors: { rise: 'var(--rise)', fall: 'var(--fall)', ink: '#20252e', muted: '#89919e', line: '#edf0f3' } } }, plugins: [] }
